@@ -5,10 +5,10 @@ There are two different layouts, one for mobile and one for large screens with t
 ## Screenshots
 
 
-![](images/mobile.png)
+![](img/mobile.png)
 
 
-![](images/large.png)
+![](img/large.png)
 
 
 ## Authors
